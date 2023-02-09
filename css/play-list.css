@@ -1,0 +1,14 @@
+.album .signature {
+    min-height: 24px;
+}
+
+.signature .card-text {
+    position: absolute;
+    bottom: 16px;
+}
+
+.tracks li:hover {
+    outline: 4px solid #ffdb4d;
+    z-index: 1;
+}
+
