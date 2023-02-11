@@ -12,3 +12,8 @@
     z-index: 1;
 }
 
+.button {
+    border: none;
+    background-color: white;
+}
+
