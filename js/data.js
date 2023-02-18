@@ -9,42 +9,42 @@ let albums = [
         tracks: [
             {
                 name: `Орём на весь район`,
-                time: `3:20`,
+                time: 200,
                 src: `assets/music/orjomNaVesRajjon.mp3`
             },
             {
                 name: `Табу`,
-                time: `4:20`,
+                time: 260,
                 src: `assets/music/tabu.mp3`
             },
             {
                 name: `Ни стыда, ни совести`,
-                time: `3:11`,
+                time: 191,
                 src: `assets/music/niStydaNiSovesti.mp3`
             },
             {
                 name: `Она горит на танцполе`,
-                time: `2:40`,
+                time: 160,
                 src: `assets/music/onaGoritNaTancpole.mp3`
             },
             {
                 name: `Снимай с себя всё`,
-                time: `3:16`,
+                time: 196,
                 src: `assets/music/snimajjSSebyaVsjo.mp3`
             },
             {
                 name: `Она яд`,
-                time: `4:16`,
+                time: 256,
                 src: `assets/music/onaYad.mp3`
             },
             {
                 name: `Чернилами`,
-                time: `3:48`,
+                time: 228,
                 src: `assets/music/chernilami.mp3`
             },
             {
                 name: `Девочка хочет движа`,
-                time: `3:12`,
+                time: 192,
                 src: `assets/music/devochkaKhochetDvizha.mp3`
             }
         ]
@@ -59,32 +59,32 @@ let albums = [
         tracks: [
             {
                 name: `Лабиринты`,
-                time: `3:20`,
+                time: 200,
                 src: `assets/music/labirinty.mp3`
             },
             {
                 name: `Путеводная`,
-                time: `3:13`,
+                time: 193,
                 src: `assets/music/putevodnaya.mp3`
             },
             {
                 name: `ЧВЭП`,
-                time: `2:50`,
+                time: 170,
                 src: `assets/music/chvejep.mp3`
             },
             {
                 name: `Не люблю`,
-                time: `2:39`,
+                time: 159,
                 src: `assets/music/neLyublyu.mp3`
             },
             {
                 name: `Помада`,
-                time: `3:19`,
+                time: 199,
                 src: `assets/music/pomada.mp3`
             },
             {
                 name: `Панацея`,
-                time: `3:05`,
+                time: 185,
                 src: `assets/music/panaceya.mp3`
             }
         ]
@@ -99,7 +99,7 @@ let albums = [
         tracks: [
             {
                 name: `По садовому`,
-                time: `2:42`,
+                time: 162,
                 src: `assets/music/poSadovomu.mp3`
             }
         ]
@@ -114,7 +114,7 @@ let albums = [
         tracks: [
             {
                 name: `Даже не половина`,
-                time: `2:51`,
+                time: 171,
                 src: `assets/music/dazheNePolovina.mp3`
             }
         ]

@@ -1,6 +1,9 @@
 let container = document.querySelector(`.albums`);
 
-for(let i = 0; i < albums.length; i++) {
+renderAlbums();
+
+function renderAlbums() {
+  for(let i = 0; i < albums.length; i++) {
     container
         .innerHTML += `
         <div class="col-12 col-sm-6 col-lg-3">
@@ -17,4 +20,5 @@ for(let i = 0; i < albums.length; i++) {
           </a>
         </div>
         `;
+  } 
 }
